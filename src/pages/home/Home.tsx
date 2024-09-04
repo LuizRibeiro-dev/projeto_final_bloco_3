@@ -6,7 +6,7 @@ function Home() {
                 <div className='grid grid-cols-2 text-white container'>
                     <div className="flex flex-col justify-center items-center gap-4 py-4">
                         <h2 className='font-bold text-5xl'>
-                            Bem vindo a Lloyds!
+                            Bem vindo a Lloyds
                         </h2>
                         <p className='text-xl'>Sua Saude importa</p>
 
